@@ -4,3 +4,7 @@ CLONE PROJECT: git clone <project name>
 CREATE NEW BRANCH AND CHECKOUT TO THE BRANCH: git checkout -b <branch name>
 
 COMMIT CHANGES: git add <file name> then git commit -m <message>
+
+PUSH NEW BRANCH: $     git push --set-upstream origin child
+
+PUSH FILES: git push
