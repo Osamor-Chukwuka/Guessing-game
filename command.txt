@@ -1,0 +1,4 @@
+CLONE PROJECT: git clone <project name>
+
+
+CREATE NEW BRANCH AND CHECKOUT TO THE BRANCH: git checkout -b <branch name>
